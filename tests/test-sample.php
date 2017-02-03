@@ -2,7 +2,7 @@
 /**
  * Class SampleTest
  *
- * @package Bcc_Rest_Test
+ * @package Wp_Events_Rest
  */
 
 /**
